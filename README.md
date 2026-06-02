@@ -7,7 +7,7 @@
 
 # ❤️💛 IRON MAN 💛❤️
 
-### ⚡ Powered by J.A.R.V.I.S. ⚡
+### ⚡ Powered by Vercel ⚡
 **J**ust **A** **R**ather **V**ery **I**ntelligent **S**ystem
   
 
