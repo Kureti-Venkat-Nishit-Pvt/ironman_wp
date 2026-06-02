@@ -3,7 +3,7 @@
 
 <!-- ARC REACTOR -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Arc_Reactor.svg" width="180px"/>
+<img src="public/arc_reactor/arc_reactor.png" width="250"/>
 
 # ❤️💛 IRON MAN 💛❤️
 
@@ -45,7 +45,10 @@
 ---
 # 🌍 Links
 
+ Vercel Website Link
 [![IRON_MAN](https://img.shields.io/badge/IRON__MAN-LIVE%20WEBSITE-gold?style=for-the-badge&logo=vercel&logoColor=red)](https://ironman-l7hp27igs-kureti-venkat-nishit-s-projects.vercel.app/)
+
+I have another Repo in which the website is deployed using GitHub Actions
 
 [![GitHub Repo](https://img.shields.io/badge/GITHUB-IRONMAN__REPO-red?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/Kureti-Venkat-Nishit-Pvt/IronMan)
 
